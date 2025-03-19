@@ -10,7 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello, Github")
+            Console.WriteLine("hello, Github");
+            Console.WriteLine("press any key to exit");
+            Console.ReadKey();
 
         }
     }
